@@ -93,8 +93,7 @@
       "NameGuid": "abd99cbb-fc2a-4be2-a5bc-14634a326c71",
       "Name": "Responsible",
       "Code": "Responsible",
-      "EntityGuid": "91eda539-42b2-4c48-acfc-b25dac3f7e8a",
-      "FlatListInStandaloneLookup": true,
+      "EntityGuid": "b7905516-2be5-4931-961c-cb38d5677565",
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
       "PreviousPropertyGuid": "9b3665ab-7522-45c1-b73e-e4fc940fa496"
     }
